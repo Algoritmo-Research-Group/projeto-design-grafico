@@ -7,9 +7,10 @@ body {
     background-color: darkseagreen;
 
 }
-mais {
+main {
     background-color: aliceblue;
     width: 500px;
     margin: auto;
+    padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 473);
 }
